@@ -1,4 +1,4 @@
-## 👋 ¡Hola! Soy Arnold Steeven Catamuscay Pérez
+## 👋 ¡Hola! Soy Arnold Steeven Catamuscay Pérez [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnold-catamuscay-37214a29a)
 
 🎓 Soy un estudiante de último semestre de Ingeniería de Sistemas en la Universidad del Cauca, ubicado en Popayán-Cauca, Colombia. Con experiencia en desarrollo web y móvil, me apasiona la ingeniería de software y la creación de soluciones eficientes y de alto impacto. A lo largo de mi formación, he trabajado en proyectos que abarcan desde el diseño de interfaces hasta el desarrollo de APIs REST y el análisis de calidad de software.
 
@@ -19,8 +19,7 @@
 
 Gracias por visitar mi perfil. ¡Estoy siempre abierto a nuevas oportunidades y colaboraciones interesantes! Puedes contactarme a través de mi correo o LinkedIn. 😄
 
-[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnold-catamuscay-37214a29a) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](ascatape@gmail.com)   
-
+📫 **Correo:** ascatape@gmail.com
 
 <!--
 **ArnoldCatamuscay/ArnoldCatamuscay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
